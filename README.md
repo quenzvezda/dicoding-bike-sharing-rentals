@@ -29,6 +29,16 @@ Bagian EDA memberikan gambaran komprehensif dari data penyewaan harian, dengan v
 
 Dalam bagian Visualisasi & Analisis Penjelasan, kami menyelami data lebih dalam dengan representasi visual untuk memahami dinamika penggunaan penyewaan sepeda. Bagian ini bertujuan untuk memberikan jawaban visual atas pertanyaan kunci kami.
 
+## Cara Menggunakan Dashboard Streamlit
+
+Proyek ini juga menyertakan sebuah dashboard interaktif yang dibuat dengan Streamlit, memungkinkan pengguna untuk menjelajahi data dan analisis secara visual.
+
+Untuk menjalankan dashboard:
+
+1. Pastikan Anda telah menginstal Streamlit dan semua dependensi yang diperlukan. Jika belum, instal dengan menjalankan `pip install -r requirements.txt` di terminal Anda.
+2. Jalankan aplikasi Streamlit dengan memasukkan perintah `streamlit run app.py` di terminal pada direktori proyek.
+3. Aplikasi akan terbuka di browser Anda. Gunakan sidebar untuk berinteraksi dengan visualisasi dan melihat analisis berdasarkan filter yang Anda terapkan.
+
 ## Kesimpulan
 
 Bagian Kesimpulan merangkum temuan dari EDA kami dan analisis visual, menyediakan wawasan yang dapat dijalankan untuk perusahaan penyewaan sepeda dan perencana perkotaan.
